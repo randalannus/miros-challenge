@@ -2,6 +2,8 @@
 
 A service for searching products by their images with a text query.
 
+The service is implemented usin OpenAI CLIP. See [openai/clip](https://github.com/openai/CLIP).
+
 ## Running
 
 ### 1. From Docker Hub

@@ -2,6 +2,11 @@
 
 A service for removing backgrounds from images.
 
+The service is implemented with MODNet. See [nahidalam/modnet_docker](https://github.com/nahidalam/modnet_docker).
+
+This is effectively a fork of the repo and thus has code not written by Randal Annus. All direct children of the 
+`bg-remover` directory are written by Randal Annus unless stated otherwise in the file.
+
 ## Running
 
 ### 1. From Docker Hub
