@@ -1,0 +1,6 @@
+torch
+torchvision
+openai-clip
+flask
+flask-CORS
+gunicorn
